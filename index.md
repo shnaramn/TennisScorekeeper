@@ -1,4 +1,4 @@
-# [Welcome](#Welcome)! 
+### Welcome!  Thanks for trying the Tennis Scorekeeper app.
 
 ## [Contents](#Contents)
 
@@ -113,6 +113,8 @@ Happy to help!  Drop a [mail](mailto:CtrlShiftB@outlook.com).
 ---
 
 ## Contact
+
+Have an idea to improve the app?  Found a bug?  Let me know.
 
 I can be reached at [CtrlShiftB@outlook.com](mailto:CtrlShiftB@outlook.com)
 
