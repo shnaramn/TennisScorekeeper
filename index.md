@@ -2,9 +2,70 @@
 
 ## [Contents](#Contents)
 
+ - [Privacy Policy](#Privacy-Policy)
  - [How To's](#How-To's:)
  - [FAQs](#FAQs)
  - [Contact](#Contact)
+
+## Privacy Policy:
+
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being collected and/or used by the Tennis Scorekeeper app (app), created by Shnara Studios (SS). PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our app. 
+
+
+  
+*What personal information do we collect from the people that use our app?*
+
+We do not collect any information from users of our app or any other details to help you with your experience. 
+
+  
+
+*When do we collect information?*
+
+We do not collect any information directly from you at any time when you use our app. 
+
+  
+
+*How do we use your information?*
+
+We do not directly use any information collected from you.  
+
+  
+
+*How do we protect your information?*
+
+Our app does not directly collect or store any information from you.  
+
+We do not need an SSL because this is an app which does not collect/transmit any PII data. 
+
+  
+
+*Do we use 'cookies'?*
+
+We do not use cookies for tracking purposes because this is an app.  
+
+  
+
+### Third-party disclosure 
+
+We do not sell, trade, or otherwise transfer to outside parties your PII. 
+
+  
+
+### Third-party links 
+
+We do not include or offer third-party products or services on our website. However, we use Google’s advertising SDKs to show ads on the app.  
+
+  
+
+### Google AdMob SDK 
+
+Further documentation about Google’s advertising SDK can be found here: 
+
+https://admob.google.com/home/  
+
+---
+
+
 
 ## How To's:
 
