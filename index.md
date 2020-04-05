@@ -3,7 +3,7 @@
 ## [Contents](#Contents)
 
  - [Privacy Policy](#Privacy-Policy)
- - [How To's](#How-To's)
+ - [How To](#How-To)
  - [FAQs](#FAQs)
  - [Contact](#Contact)
 
@@ -67,7 +67,7 @@ https://admob.google.com/home/
 
 
 
-## How To's
+## How To
 
 - [Track a live match](#Track-a-live-match)
 - [Record Score of a past match](#Record-Score-of-a-past-match)
