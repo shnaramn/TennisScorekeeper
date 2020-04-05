@@ -7,7 +7,7 @@
  - [FAQs](#FAQs)
  - [Contact](#Contact)
 
-## Privacy Policy:
+## Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being collected and/or used by the Tennis Scorekeeper app (app), created by Shnara Studios (SS). PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our app. 
 
@@ -67,7 +67,7 @@ https://admob.google.com/home/
 
 
 
-## How To's:
+## How To's
 
 - [Track a live match](#Track-a-live-match)
 - [Record Score of a past match](#Record-Score-of-a-past-match)
