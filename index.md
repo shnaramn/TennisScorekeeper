@@ -3,7 +3,7 @@
 ## [Contents](#Contents)
 
  - [Privacy Policy](#Privacy-Policy)
- - [How To's](#How-To's:)
+ - [How To's](#How-To's)
  - [FAQs](#FAQs)
  - [Contact](#Contact)
 
